@@ -4,9 +4,13 @@ A simple and responsive weather application built using React.js that fetches re
 
 # 🚀 Features
 ✅ Get real-time weather updates for any city 🌍
+
 ✅ Displays temperature, humidity, wind speed, and weather conditions ⛅
+
 ✅ User-friendly and responsive UI 📱
+
 ✅ Fetches data from the OpenWeather API ☁️
+
 ✅ Built with React.js and modern web technologies
 
 # 🛠️ Technologies Used
