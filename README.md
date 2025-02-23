@@ -15,9 +15,13 @@ A simple and responsive weather application built using React.js that fetches re
 
 # 🛠️ Technologies Used
 React.js ⚛️
+
 CSS (Tailwind/Bootstrap/Custom Styling) 🎨
+
 OpenWeather API 🌦️
+
 Axios (for API requests) 📡
+
 JavaScript (ES6+ features) 🖥️
 
 
