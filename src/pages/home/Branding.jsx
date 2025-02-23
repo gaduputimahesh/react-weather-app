@@ -6,7 +6,7 @@ const Branding = () => {
     <>
       <div className="mb-1 w-full text-center absolute top-3">
         <a
-          href="https://github.com/TanmayPShinde/react-weather-app"
+          href="https://https://github.com/gaduputimahesh"
           target="_blank"
           rel="noreferrer"
           className="me-4 hover:text-blue-700 hover:underline"
@@ -14,7 +14,7 @@ const Branding = () => {
           <img src={github} alt="github" className="inline" /> github repo
         </a>
         <a
-          href="http://www.linkedin.com/in/tanmay-p-shinde"
+          href="https://www.linkedin.com/in/mahesh-gaduputi-a348b9288"
           target="_blank"
           rel="noreferrer"
           className="me-4 hover:text-blue-700 hover:underline"
@@ -24,7 +24,7 @@ const Branding = () => {
       </div>
       <div className="mb-6 mt-4 lg:absolute lg:bottom-4 lg:my-0 w-full text-center font-semibold">
         Weather Station Dashboard
-        <span className="text-sm font-normal ml-1">- Tanmay Shinde</span>
+        <span className="text-sm font-normal ml-1">- Gaduputi Mahesh</span>
       </div>
     </>
   );
